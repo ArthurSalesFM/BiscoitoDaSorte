@@ -3,6 +3,7 @@
 **Desenvolvido por** *Arthur Felipe MS*
 
 #### Tecnologias Utilizadas
-* *REACT*
+
 * *Javascript*
+* *HTML*
 * *CSS*
